@@ -34,8 +34,8 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.11.0</version> <!-- 确保使用支持的插件版本 -->
         <configuration>
-          <source>1.7</source> <!-- 或者更高版本 -->
-          <target>1.7</target> <!-- 或者更高版本 -->
+          <source>1.8</source> <!-- 或者更高版本 -->
+          <target>1.8</target> <!-- 或者更高版本 -->
         </configuration>
       </plugin>
     </plugins>
